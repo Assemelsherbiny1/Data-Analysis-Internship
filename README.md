@@ -4,18 +4,18 @@ This project involves analyzing a hotel reservation dataset using SQL to uncover
 ## Dataset includes 
 The dataset includes the following columns:
 
-Booking_ID: A unique identifier for each hotel reservation.
-no_of_adults: The number of adults in the reservation.
-no_of_children: The number of children in the reservation.
-no_of_weekend_nights: The number of nights in the reservation that fall on weekends.
-no_of_week_nights: The number of nights in the reservation that fall on weekdays.
-type_of_meal_plan: The meal plan chosen by the guests.
-room_type_reserved: The type of room reserved by the guests.
-lead_time: The number of days between booking and arrival.
-arrival_date: The date of arrival.
-market_segment_type: The market segment to which the reservation belongs.
-avg_price_per_room: The average price per room in the reservation.
-booking_status: The status of the booking.
+- Booking_ID: A unique identifier for each hotel reservation.
+- no_of_adults: The number of adults in the reservation.
+- no_of_children: The number of children in the reservation.
+- no_of_weekend_nights: The number of nights in the reservation that fall on weekends.
+- no_of_week_nights: The number of nights in the reservation that fall on weekdays.
+- type_of_meal_plan: The meal plan chosen by the guests.
+- room_type_reserved: The type of room reserved by the guests.
+- lead_time: The number of days between booking and arrival.
+- arrival_date: The date of arrival.
+- market_segment_type: The market segment to which the reservation belongs.
+- avg_price_per_room: The average price per room in the reservation.
+- booking_status: The status of the booking.
 ## Problem statements
 Tasked with analyzing this hotel reservation dataset using SQL. Here are 15 questions for which i wrote SQL queries to gain insights:
 
